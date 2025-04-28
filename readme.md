@@ -33,7 +33,7 @@ or
 import directly from website:
 
 ```javascript
-import quiz from "https://johnhenry.github.io/lib/js/pop-quiz/0.0.0/index.mjs";
+import quiz from "https://cdn.jsdelivr.net/npm/pop-quiz@0.0.7/index.mjs";
 ```
 
 ## API
